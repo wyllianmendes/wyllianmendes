@@ -33,7 +33,7 @@
   <br>
  
   <div>
-   <a href="https://instagram.com/wyllianmendes_" target="_blank"><img alt="Linkedin" height="30" src="https://img.shields.io/badge/Linkedin-dark?style=social&logo=Linkedin&labelColor=dark&color=dark" target="_blank"></a>
+   <a href="https://instagram.com/wyllianmendes_" target="_blank"><img alt="LinkedIn" height="30" src="https://img.shields.io/badge/LinkedIn-dark?style=social&logo=LinkedIn" target="_blank"></a>
    <br>
    <br>
    <a href="https://www.linkedin.com/in/wyllianmendes/" target="_blank"><img alt="Instagram" height="30" src="https://img.shields.io/badge/Instagram-dark?style=social&logo=Instagram&labelColor=dark&color=dark"  target="_blank"></a>
