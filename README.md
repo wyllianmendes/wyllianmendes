@@ -23,7 +23,7 @@
   ## Cursando Full Stack JavaScript na instituição:
   
   <div align='center'>
-   <a href="https://www.onebitcode.com/" target="_blank"><img align="center" alt="One Bit Code" height="40" width="40" src="https://scontent.fslz1-1.fna.fbcdn.net/v/t39.30808-6/312961274_495164872629672_4489570426684362710_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF98-tVb1bwSnqtJWqI4DqlIqvUDHXmUgoiq9QMdeZSCjn3x5uueICr7EwM2C7rcgQRmubMkUhSrVgwIc_ZVB4P&_nc_ohc=1sUjCeI9FYQAb5w0_YM&_nc_oc=AdjgtLjcDCVc8XcVAcuuUiMUFr5dj6DaogniHKeOACjbPj_v-g0i9UYsQCMlNxatTnU&_nc_ht=scontent.fslz1-1.fna&oh=00_AfAJNVCTjB5lhkquxpO-YB61EtJMGFTE2K6CjgrE5-r8Ng&oe=661DE9A2"></a>
+   <a href="https://www.onebitcode.com/" target="_blank"><img align="center" alt="One Bit Code" height="40" width="40" src="https://cdn.areademembros.com/files/instancia_1851/image/kFD8sGrWPV6uX7tFtw8IcI7JRJKPoTp4N01LUzFu.png"></a>
    <a href="https://www.onebitcode.com/" target="_blank">OneBitCode</a>
    <br>
   </div>
