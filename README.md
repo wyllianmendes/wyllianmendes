@@ -32,11 +32,13 @@
   ## Abaixo estão minhas principais redes sociais:
 
   <br>
- 
-   <div align="center">
-     <a href="https://www.linkedin.com/in/wyllianmendes/" target="_blank">
+  
+  <div align="center">
+   <a href="https://www.linkedin.com/in/wyllianmendes/" target="_blank">
        <img src="https://img.shields.io/badge/-Linkedin-006192?style=for-the-badge&logo=logmein&logoColor=white" target="_blank">
      </a>
+     <br>
+     <br>
      <a href="https://www.instagram.com/wyllianmendes_/" target="_blank">
        <img src="https://img.shields.io/badge/-Instagram-FD355C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
      </a>
