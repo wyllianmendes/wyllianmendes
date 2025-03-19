@@ -24,7 +24,7 @@
   
   <div align='center'>
    <a href="https://www.onebitcode.com/" target="_blank"><img align="center" alt="One Bit Code" height="40" width="40" src="https://cdn.areademembros.com/files/instancia_1851/image/kFD8sGrWPV6uX7tFtw8IcI7JRJKPoTp4N01LUzFu.png"></a>
-   <a href="https://www.onebitcode.com/" target=_blank"><p>OneBitCode</p></a>
+   <a href="https://www.onebitcode.com/" target=_blank"> OneBitCode</a>
    <br>
   </div>
   
@@ -32,16 +32,15 @@
 
   <br>
  
-  <div>
-   <a href="https://www.linkedin.com/in/wyllianmendes/" target="_blank">
-    <img alt="LinkedIn" height="30" src="https://img.shields.io/badge/Lindkedin-dark?style=social&logo=Linkedin&labelColor=dark&color=dark" target="_blank">
-   </a>
-   
-   <br>
-   <br>
+  <div align='center'>
    
    <a href="https://instagram.com/wyllianmendes_" target="_blank">
-   <img alt="Instagram" height="30" src="https://img.shields.io/badge/Instagram-dark?style=social&logo=Instagram&labelColor=dark&color=dark" target="_blank">
+    <img alt="Instagram" height="30" src="https://img.shields.io/badge/Instagram-FD355C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+   </a>
+  <br>
+  <br>
+   <a href="https://www.linkedin.com/in/wyllianmendes/" target="_blank">
+    <img alt="LinkedIn" height="30" src="https://img.shields.io/badge/Linkedin-006192?style=for-the-badge&logo=logmein&logoColor=white" target="_blank">
    </a>
   </div>
  </div>
