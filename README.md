@@ -23,8 +23,8 @@
   ## Cursando Full Stack JavaScript na instituição:
   
   <div align='center'>
-   <a href="https://www.onebitcode.com/" target=_blank><img align="center" alt="One Bit Code" height="40" width="40" src="https://cdn.areademembros.com/files/instancia_1851/image/kFD8sGrWPV6uX7tFtw8IcI7JRJKPoTp4N01LUzFu.png"></a>
-   <a href="https://www.onebitcode.com/" target=_blank>OneBitCode</a>
+   <a href="https://www.onebitcode.com/" target="_blank"><img align="center" alt="One Bit Code" height="40" width="40" src="https://cdn.areademembros.com/files/instancia_1851/image/kFD8sGrWPV6uX7tFtw8IcI7JRJKPoTp4N01LUzFu.png"></a>
+   <a href="https://www.onebitcode.com/" target=_blank"><p>OneBitCode</p></a>
    <br>
   </div>
   
