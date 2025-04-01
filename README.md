@@ -11,22 +11,19 @@
    <br>
 
    <div align="center">
-     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+     <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    </div>
  
   <br>
 
-  ## Cursando Full Stack JavaScript na instituição:
+  ## Cursando Full Stack JavaScript na instituição OneBitCode:
   
    <div align="center">
      <a href="https://www.onebitcode.com/" target="_blank">
-       <img align="center" alt="One Bit Code" height="40" width="40" src="https://cdn.areademembros.com/files/instancia_1851/image/kFD8sGrWPV6uX7tFtw8IcI7JRJKPoTp4N01LUzFu.png">
+       <img align="center" alt="One Bit Code" height="40" width="40" src="https://onebitcode.com/assets/new/newpro/img/red-hand.png">
      </a>
-     <br>
-     <br>
-     <a href="https://onebitcode.com/" target="_blank">OneBitCode</a>
    </div>
   
   ## Abaixo estão minhas principais redes sociais:
